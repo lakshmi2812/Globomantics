@@ -40,7 +40,7 @@ function App() {
   return (
     <Router>
       <div className="container">
-          <Header subtitle="Building houses all over the world"/>
+          <Header subtitle="Providing houses all over the world"/>
           <HouseFilter allHouses={allHouses} />
         <Switch>
           <Route path="/searchresults/:country">
