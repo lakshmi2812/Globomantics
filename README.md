@@ -1,5 +1,5 @@
 # Globomantics_git_repo
-Globomantics is a website that allows the users to browse homes in three different countries. It provides a dropdown search that allows users to search homes by country.
+Globomantics is a website that allows the users to browse homes in three different countries. It provides a dropdown search that allows users to search homes by country. It has been developed using ReactJS and Typescript.
 
 Steps to run this project locally:
 
