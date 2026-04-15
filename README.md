@@ -9,5 +9,5 @@ Steps to run this project locally:
 4. If you run into dependency issues, then, run 'npm install --legacy-peer-deps'
 4. Run 'npm start' to run the application
 
-Note: This react project will run by default at https://localhost:3000
+Note: This ReactJS project will run by default at https://localhost:3000
 You can change the port if you want in package.json 
